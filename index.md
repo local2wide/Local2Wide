@@ -1,6 +1,6 @@
 
 
-**Local2Wide**
+### **Local2Wide**
 
 <!--- ## Welcome to GitHub Pages
 
